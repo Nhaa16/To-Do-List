@@ -1,0 +1,2 @@
+# To-Do-List
+Create a To-Do list app whereby a new record can be added to a list. A record includes firstname, lastname and telephone number.A record within the list can be updated or deleted. Using Recyclerviews and implementing a caching technology, create a To-Do list app. Sqlite or SharedPreference can be used to serve as persistence. The project should have at least 4 screens which includes a login, to-do list, new record entry and update record screen.
